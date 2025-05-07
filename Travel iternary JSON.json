@@ -52,6 +52,21 @@
             "time": "1:00 PM"
           }
         ]
+      },
+      {
+        "location": "St louise",
+        "arrivalDate": "2025-08-01",
+        "departureDate": "2025-08-03",
+        "activities": [
+          {
+            "title": "arch",
+            "time": "9:00 AM"
+          },
+          {
+            "title": "garder",
+            "time": "1:00 PM"
+          }
+        ]
       }
   ]
 }
