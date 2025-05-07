@@ -1,0 +1,57 @@
+{
+  "tripName": "Mid west major city visit",
+  "traveler": {
+    "name": "Deepa Ingole",
+    "contact": {
+      "email": "deeps.2@example.com",
+      "phone": "+1-123-456-7890"
+    }
+  },
+  "destinations": [
+    {
+      "location": "Chicago",
+      "arrivalDate": "2025-05-20",
+      "departureDate": "2025-05-22",
+      "activities": [
+        {
+          "title": "Willis Tower of Chicago Visit",
+          "time": "9:00 AM"
+        },
+        {
+          "title": "Architecture River Cruise",
+          "time": "3:00 PM"
+        }
+      ]
+    },
+    {
+      "location": "Branson",
+      "arrivalDate": "2025-07-01",
+      "departureDate": "2025-07-03",
+      "activities": [
+        {
+          "title": "Silver Dollar City Theme Park",
+          "time": "9:00 AM"
+        },
+        {
+          "title": "Titanic Museum Tour",
+          "time": "1:00 PM"
+        }
+      ]
+    },
+    {
+        "location": "Houston",
+        "arrivalDate": "2025-08-01",
+        "departureDate": "2025-08-03",
+        "activities": [
+          {
+            "title": "Space Center Houston",
+            "time": "9:00 AM"
+          },
+          {
+            "title": "Galveston Beach",
+            "time": "1:00 PM"
+          }
+        ]
+      }
+  ]
+}
